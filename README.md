@@ -5,3 +5,5 @@ Macchanger
 python3 Macchanger.py -i <interface> -m <new mac adress>
 
 python3 Macchanger.py --interface <interface> --mac <new mac adress>
+
+Coding by Berk Küçük
