@@ -1,6 +1,7 @@
 import subprocess as sub
 import optparse as opt
 
+print("Coding By Berk Küçük")
 def get_arguments():
     parser=opt.OptionParser()
     parser.add_option("-i", "--interface",dest="interface",help="Interface to change its mac adress")
